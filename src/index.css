@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    font-family: 'Playfair Display'
+}
+.slick-slide > div {
+    margin: 0 10px;
+}
